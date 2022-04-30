@@ -1,2 +1,1 @@
-import resnet
 import os
