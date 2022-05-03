@@ -2,6 +2,7 @@ pip
 numpy
 scipy
 Pillow
+torch
 cython
 matplotlib
 scikit-image
