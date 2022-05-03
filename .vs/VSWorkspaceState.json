@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\language",
-    "\\testdata"
+    "\\testdata",
+    "\\testdata\\simple"
   ],
-  "SelectedNode": "\\main.py",
+  "SelectedNode": "\\testdata\\simple\\005.png",
   "PreviewInSolutionExplorer": false
 }
