@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\testdata\\simple"
   ],
-  "SelectedNode": "\\H:\\code\\CurveLab",
+  "SelectedNode": "\\config.py",
   "PreviewInSolutionExplorer": false
 }
