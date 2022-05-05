@@ -5,5 +5,5 @@ import torch.nn as nn
 import torch.optim as optim
 from torchvision import transforms, datasets
 from tqdm import tqdm
+import config
 
-image_path = '/testdata/simple'
